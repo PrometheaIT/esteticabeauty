@@ -1,0 +1,1 @@
+import{Qa as t,fb as c,gb as o,tb as a}from"./chunk-BIDTVNE2.js";var p=class i{static \u0275fac=function(e){return new(e||i)};static \u0275cmp=t({type:i,selectors:[["app-privacy-policy"]],decls:2,vars:0,template:function(e,r){e&1&&(c(0,"p"),a(1,"privacy-policy works!"),o())},encapsulation:2})};export{p as PrivacyPolicy};
